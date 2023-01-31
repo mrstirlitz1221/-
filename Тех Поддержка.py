@@ -94,4 +94,4 @@ def customer_support_handler(message):
     )
 
 
-bot.polling()
+bot.polling(none_stop=True, interval=0)
