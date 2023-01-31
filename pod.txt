@@ -1,1 +1,1 @@
-{1138500722: {'name': 'Stirlitz', 'user': 'mrStirlitz'}, 2028784660: {'name': 'Агзам ???', 'user': 'None'}, 5545038917: {'name': 'Товарищ Сталин', 'user': 'towarish_stalin'}}
+{1138500722: {'name': 'Stirlitz', 'user': 'mrStirlitz'}, 2028784660: {'name': 'РђРіР·Р°Рј', 'user': 'None'}, 5545038917: {'name': 'РўРѕРІР°СЂРёС‰ РЎС‚Р°Р»РёРЅ', 'user': 'towarish_stalin'}}
